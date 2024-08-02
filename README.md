@@ -1,0 +1,6 @@
+### Задание №1: Переходы между фрагментами без сторонних библиотек
+Код задания находится в классах [`Router`](https://github.com/Sanektys/androidSdkTasks/blob/main/app/src/main/java/com/example/androidsdktasks/Router.kt), [`SimpleFragment`](https://github.com/Sanektys/androidSdkTasks/blob/main/app/src/main/java/com/example/androidsdktasks/SimpleFragment.kt) и в [`MainActivity`](https://github.com/Sanektys/androidSdkTasks/blob/208214ecc98f0ce11c12643bd2483753a2ff35d3/app/src/main/java/com/example/androidsdktasks/MainActivity.kt#L39C9-L40C67)
+### Задание №2: Запусить работу через WorkManager, создающую нотификацию о зарядке
+Код задания находится в классе [`ChargeNotificationWorker`](https://github.com/Sanektys/androidSdkTasks/blob/main/app/src/main/java/com/example/androidsdktasks/ChargeNotificationWorker.kt) и методе [`MainActivity.startChargingNotificationWork()`](https://github.com/Sanektys/androidSdkTasks/blob/208214ecc98f0ce11c12643bd2483753a2ff35d3/app/src/main/java/com/example/androidsdktasks/MainActivity.kt#L45C5-L80C6)
+### Задание №3: Создать кастомное View, заполняющееся при клике по ней
+Код задания в классе [`CustomView`](https://github.com/Sanektys/androidSdkTasks/blob/main/app/src/main/java/com/example/androidsdktasks/CustomView.kt)
